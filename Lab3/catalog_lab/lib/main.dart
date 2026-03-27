@@ -38,37 +38,37 @@ class CatalogScreen extends StatelessWidget {
     Product(
       name: 'Coffee Mug',
       price: '\$12.99',
-      imageUrl: 'https://picpsum.photos/id/1/200/200',
+      imageUrl: 'https://picsum.photos/id/1/200/200',
       color: Colors.brown,
     ),
     Product(
       name: 'Notebook',
       price: '\$5.99',
-      imageUrl: 'https://picpsum.photos/id/2/200/200',
+      imageUrl: 'https://picsum.photos/id/2/200/200',
       color: Colors.blue,
     ),
     Product(
       name: 'Pen Set',
       price: '\$8.49',
-      imageUrl: 'https://picpsum.photos/id/3/200/200',
+      imageUrl: 'https://picsum.photos/id/3/200/200',
       color: Colors.green,
     ),
     Product(
       name: 'Backpack',
       price: '\$49.99',
-      imageUrl: 'https://picpsum.photos/id/4/200/200',
+      imageUrl: 'https://picsum.photos/id/4/200/200',
       color: Colors.red,
     ),
     Product(
       name: 'Headphones',
       price: '\$89.99',
-      imageUrl: 'https://picpsum.photos/id/5/200/200',
+      imageUrl: 'https://picsum.photos/id/5/200/200',
       color: Colors.grey,
     ),
     Product(
       name: 'Smart Watch',
       price: '\$199.99',
-      imageUrl: 'https://picpsum.photos/id/6/200/200',
+      imageUrl: 'https://picsum.photos/id/6/200/200',
       color: Colors.black,
     ),
   ];
